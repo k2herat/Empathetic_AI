@@ -16,5 +16,3 @@
 Сравнение и использование
 
 ViT значительно превосходит CNN благодаря большему объёму данных и трансферному обучению.
-Для запуска требуются: Python 3.8+, PyTorch, Hugging Face Transformers, scikit‑learn, pandas, numpy, matplotlib.
-Установка зависимостей: pip install torch torchvision transformers datasets scikit-learn pandas numpy matplotlib seaborn.
